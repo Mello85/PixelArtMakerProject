@@ -1,1 +1,2 @@
-# PixelArtMekerProject
+# PixelArtMakerProject
+first attempt
